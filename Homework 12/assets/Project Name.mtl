@@ -1,0 +1,15 @@
+newmtl Gentle Glow_ea8df843-c1e1-4260-a929-d07fa1ec8b3f
+Kd 0.631 0.353 0.039
+d 1.000
+newmtl Metallic_4504db2f-c025-4100-8b21-5870f797c43e
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Diesel 1_70a2865c-6597-4b4f-b26e-7d4a091f9ff4
+Kd 0.176 0.235 0.878
+d 1.000
+newmtl Diesel_ac864f4f-e960-474e-a59b-0cb0075ea9b5
+Kd 0.176 0.235 0.878
+d 1.000
+newmtl Spicy Mix_05fb03ee-c4c2-4b6a-bc77-ab68dba5c50b
+Kd 1.000 0.957 0.620
+d 1.000
